@@ -1,0 +1,14 @@
+FEDERATION_SERVER="https://api.stellar.org/federation" 
+
+[DOCUMENTATION] 
+ORG_NAME="TESTNET PROJECT" 
+ORG_URL="https://testnet.owaow.com" 
+ORG_LOGO="https://testnet.owaow.com/logo/345x345.svg" 
+
+[[CURRENCIES]] 
+code="TEST" 
+issuer="GAAZODIX4SN7FNKOKN2C4HOYOUUE7H7S6V66GEE2V5LU6D4Y3ZONTEST"
+name="TESTNET" 
+desc="TESTNET PROJECT (Asset Code : TEST) is a supporting project of Stellar Lumens (XLM) Test Net on public live network."
+display_decimals=7 
+image="https://testnet.owaow.com/logo/64x64.svg" 
