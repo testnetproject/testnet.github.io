@@ -20,6 +20,9 @@
 
 <h3><strong>[ TECHNICAL DATA ]</strong></h3> 
 
+<strong>Blockchain</strong>
+<br><a href="https://stellar.org" target="_blank">Stellar</a><br> 
+
 <strong>Asset Name</strong>
 <br>TESTNET<br>
 
@@ -40,7 +43,4 @@
 
 <strong>Asset Category</strong>
 <br>Utility<br> 
-
-<strong>Blockchain</strong>
-<br><a href="https://stellar.org" target="_blank">Stellar</a><br> 
 </div>
