@@ -1,5 +1,5 @@
 <div align="center">
-<h2><strong>TESTNET PROJECT</strong></h2><br><br>
+<h2><strong>TESTNET PROJECT</strong></h2><br>
 <i>A Supporting Project of Stellar Lumens (XLM) Test Net on Public Live Network</i><br><br>
 
 <strong>TECHNICAL DATA</strong><br> 
