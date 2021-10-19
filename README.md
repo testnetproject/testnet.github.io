@@ -14,7 +14,11 @@
 
 <strong>Stellar Term</strong>
 <br><strong><a href="https://stellarterm.com/exchange/TEST-GAAZODIX4SN7FNKOKN2C4HOYOUUE7H7S6V66GEE2V5LU6D4Y3ZONTEST/XLM-native" target="_blank">TEST/XLM</a> | 
-<a href="https://stellarterm.com/exchange/XLM-native/TEST-GAAZODIX4SN7FNKOKN2C4HOYOUUE7H7S6V66GEE2V5LU6D4Y3ZONTEST" target="_blank">XLM/TEST</a></strong><br>
+<a href="https://stellarterm.com/exchange/XLM-native/TEST-GAAZODIX4SN7FNKOKN2C4HOYOUUE7H7S6V66GEE2V5LU6D4Y3ZONTEST" target="_blank">XLM/TEST</a></strong><br> 
+
+<strong>Interstellar</strong>
+<br><strong><a href="https://interstellar.exchange/app/#/trade/guest/TEST/GAAZODIX4SN7FNKOKN2C4HOYOUUE7H7S6V66GEE2V5LU6D4Y3ZONTEST/XLM/native" target="_blank">TEST/XLM</a> | 
+<a href="https://interstellar.exchange/app/#/trade/guest/XLM/native/TEST/GAAZODIX4SN7FNKOKN2C4HOYOUUE7H7S6V66GEE2V5LU6D4Y3ZONTEST" target="_blank">XLM/TEST</a></strong><br> 
 
 <h3><strong>[ TECHNICAL DATA ]</strong></h3> 
 
