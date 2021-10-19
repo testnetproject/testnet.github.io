@@ -2,7 +2,7 @@
 <h2><strong>TESTNET PROJECT</strong></h2><br>
 <i>A Supporting Project of Stellar Lumens (XLM) Test Net on Public Live Network</i><br><br>
 
-<strong>TECHNICAL DATA</strong><br> 
+<strong>[ TECHNICAL DATA ]</strong><br> 
 
 <strong>Asset Name</strong>
 <br>TESTNET<br><br>
@@ -25,7 +25,7 @@
 <strong>Trading Pairs</strong>
 <br>XLM/TEST or TEST/XLM<br> 
 
-<strong>ORGANIZATION</strong><br> 
+<strong>[ ORGANIZATION ]</strong><br> 
 
 <strong>Organization Name</strong>
 <br>TESTNET PROJECT<br> 
