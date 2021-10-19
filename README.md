@@ -19,8 +19,8 @@
 <br>TEST/XLM or XLM/TEST<br> 
 
 <strong>Stellar Term</strong>
-<br><a href="https://stellarterm.com/exchange/TEST-GAAZODIX4SN7FNKOKN2C4HOYOUUE7H7S6V66GEE2V5LU6D4Y3ZONTEST/XLM-native" target="_blank">TEST/XLM</a> | 
-<a href="https://stellarterm.com/exchange/XLM-native/TEST-GAAZODIX4SN7FNKOKN2C4HOYOUUE7H7S6V66GEE2V5LU6D4Y3ZONTEST" target="_blank">XLM/TEST</a><br>
+<br><strong><a href="https://stellarterm.com/exchange/TEST-GAAZODIX4SN7FNKOKN2C4HOYOUUE7H7S6V66GEE2V5LU6D4Y3ZONTEST/XLM-native" target="_blank">TEST/XLM</a></strong> | 
+<strong><a href="https://stellarterm.com/exchange/XLM-native/TEST-GAAZODIX4SN7FNKOKN2C4HOYOUUE7H7S6V66GEE2V5LU6D4Y3ZONTEST" target="_blank">XLM/TEST</a></strong><br>
 
 <h3><strong>[ TECHNICAL DATA ]</strong></h3> 
 
