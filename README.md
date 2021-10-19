@@ -1,6 +1,8 @@
 <div align="center">
-<h2 style="color:cyan"><strong>TESTNET PROJECT</strong></h2> 
+<div style="color:cyan">
+<h2><strong>TESTNET PROJECT</strong></h2> 
 <i>A Supporting Project of Stellar (XLM) Test Net on Public Live Network</i><br>
+<div>
 
 <h3><strong>[ ORGANIZATION ]</strong></h3> 
 
