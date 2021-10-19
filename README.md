@@ -1,8 +1,8 @@
 <div align="center">
-<h2><strong>TESTNET PROJECT</strong></h2><br>
+<h2><strong>TESTNET PROJECT</strong></h2><br> 
 <i>A Supporting Project of Stellar Lumens (XLM) Test Net on Public Live Network</i><br><br>
 
-<h3><strong>[ TECHNICAL DATA ]</strong></h3><br> 
+<h3><strong>[ TECHNICAL DATA ]</strong></h3> 
 
 <strong>Asset Name</strong>
 <br>TESTNET<br>
@@ -34,7 +34,7 @@
 <strong>Trading Pairs</strong>
 <br>TEST/XLM or XLM/TEST<br> 
 
-<strong>[ ORGANIZATION ]</strong><br> 
+<h3><strong>[ ORGANIZATION ]</strong></h3>
 
 <strong>Organization Name</strong>
 <br>TESTNET PROJECT<br> 
