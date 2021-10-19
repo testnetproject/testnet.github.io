@@ -1,6 +1,5 @@
 <div align="center">
-<h2><strong>TESTNET PROJECT</strong><h2> 
-
+<h2>TESTNET PROJECT</h2>
 <i>A Supporting Project of Stellar (XLM) Test Net on Public Live Network</i><br>
 
 <h3><strong>[ ORGANIZATION ]</strong></h3> 
