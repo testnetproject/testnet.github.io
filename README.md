@@ -24,7 +24,7 @@
 
 <strong>Initial Price</strong>
 <br>1 TEST = 0.5 XLM<br>
-(Via Initial Token Offering On SDEX)<br>
+<i>(Via Initial Token Offering On SDEX)</i><br>
 
 <h3><strong>[ TECHNICAL DATA ]</strong></h3> 
 
