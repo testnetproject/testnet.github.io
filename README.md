@@ -36,6 +36,9 @@
 <strong>Issuer</strong>
 <br><a href="https://stellar.expert/explorer/public/account/GAAZODIX4SN7FNKOKN2C4HOYOUUE7H7S6V66GEE2V5LU6D4Y3ZONTEST" target="_blank">GAAZODIX4SN7FNKOKN2C4HOYOUUE7H7S6V66GEE2V5LU6D4Y3ZONTEST</a><br> 
 
+<strong>Total Supply</strong>
+<br>101.000.000 TEST<br>
+
 <strong>Home Domain</strong>
 <br><a href="https://test.owaow.com" target="_blank">https://test.owaow.com</a><br> 
 
