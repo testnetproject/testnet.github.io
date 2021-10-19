@@ -12,7 +12,7 @@ ACCOUNTS=[
 [DOCUMENTATION] 
 ORG_NAME="TESTNET PROJECT" 
 ORG_URL="https://test.owaow.com" 
-ORG_LOGO="https://test.owaow.com/logo/345x345.svg" 
+ORG_LOGO="https://test.owaow.com/logo.svg" 
 
 [[CURRENCIES]] 
 code="TEST" 
