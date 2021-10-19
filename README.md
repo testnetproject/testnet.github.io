@@ -2,6 +2,22 @@
 <h2><strong>TESTNET PROJECT</strong></h2> 
 <i>A Supporting Project of Stellar Lumens (XLM) Test Net on Public Live Network</i><br>
 
+<h3><strong>[ ORGANIZATION ]</strong></h3> 
+
+<strong>Organization Name</strong> 
+<br>TESTNET PROJECT<br> 
+
+<strong>Website</strong>
+<br><a href="https://test.owaow.com" target="_blank">https://test.owaow.com</a><br> 
+
+<h3><strong>[ MARKET ]</strong></h3>
+
+<strong>Global Market</strong>
+<br>Stellar Decentralized Exchange<br>(SDEX)<br>
+
+<strong>Trading Pairs</strong>
+<br>TEST/XLM or XLM/TEST<br> 
+
 <h3><strong>[ TECHNICAL DATA ]</strong></h3> 
 
 <strong>Asset Name</strong>
@@ -27,18 +43,4 @@
 
 <strong>Blockchain</strong>
 <br><a href="https://stellar.org" target="_blank">Stellar</a><br> 
-
-<strong>Market</strong>
-<br>Stellar Decentralized Exchange<br>(SDEX)<br>
-
-<strong>Trading Pairs</strong>
-<br>TEST/XLM or XLM/TEST<br> 
-
-<h3><strong>[ ORGANIZATION ]</strong></h3>
-
-<strong>Organization Name</strong>
-<br>TESTNET PROJECT<br> 
-
-<strong>Website</strong>
-<br><a href="https://test.owaow.com" target="_blank">https://test.owaow.com</a><br> 
 </div>
