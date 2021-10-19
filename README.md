@@ -1,4 +1,4 @@
-<style text-align="center">
+<center>
 TESTNET PROJECT (Asset Code : TEST) is a Supporting Project of Stellar Lumens (XLM) Test Net on Public Live Network.<br><br> 
 
 <strong>Technical Data</strong><br><br> 
@@ -17,4 +17,4 @@ Trading Pairs : XLM/TEST or TEST/XLM<br><br>
 
 Organization Name : <strong>TESTNET PROJECT</strong><br> 
 Website : <a href="https://test.owaow.com" target="_blank">https://test.owaow.com</a><br> 
-</style>
+</center>
