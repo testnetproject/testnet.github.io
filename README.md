@@ -32,7 +32,7 @@
 <br>Stellar Decentralized Exchange<br>(SDEX)<br>
 
 <strong>Trading Pairs</strong>
-<br>XTEST/XLM or XLM/TEST<br> 
+<br>TEST/XLM or XLM/TEST<br> 
 
 <strong>[ ORGANIZATION ]</strong><br> 
 
