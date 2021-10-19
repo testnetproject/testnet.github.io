@@ -16,5 +16,8 @@ Trading Pairs<br>XLM/TEST or TEST/XLM<br>
 <strong>ORGANIZATION</strong><br> 
 
 Organization Name<br>TESTNET PROJECT<br> 
+
+[https://test.owaow.com](https://test.owaow.com){:target="\_blank"}
+
 Website<br><a href="https://test.owaow.com" target="_blank">https://test.owaow.com</a><br> 
 </div>
