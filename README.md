@@ -30,7 +30,7 @@
 <strong>Organization Name</strong>
 <br>TESTNET PROJECT<br> 
 
-[https://test.owaow.com](https://test.owaow.com){:target="_blank" rel="noopener"}
+[https://test.owaow.com](https://test.owaow.com){:target="\_blank"}
 
 <strong>Website</strong>
 <br><a href="https://test.owaow.com" target="_blank">https://test.owaow.com</a><br> 
