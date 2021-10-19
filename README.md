@@ -5,7 +5,7 @@
 <strong>TECHNICAL DATA</strong><br> 
 
 <strong>Asset Name</strong>
-<br>TESTNET<br>
+<br>TESTNET<br><br>
 <strong>Asset Code</strong>
 <br>TEST<br>
 <strong>Issuer</strong>
@@ -29,8 +29,6 @@
 
 <strong>Organization Name</strong>
 <br>TESTNET PROJECT<br> 
-
-[https://test.owaow.com](https://test.owaow.com){:target="\_blank"}
 
 <strong>Website</strong>
 <br><a href="https://test.owaow.com" target="_blank">https://test.owaow.com</a><br> 
