@@ -1,5 +1,6 @@
 <div align="center">
-TESTNET PROJECT (Asset Code : TEST) is a Supporting Project of Stellar Lumens (XLM) Test Net on Public Live Network.<br><br>
+<strong>TESTNET PROJECT</strong><br>
+<i>A Supporting Project of Stellar Lumens (XLM) Test Net on Public Live Network</i><br><br>
 
 <strong>TECHNICAL DATA</strong><br> 
 
