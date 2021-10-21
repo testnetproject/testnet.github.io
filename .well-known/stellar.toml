@@ -11,8 +11,8 @@ ACCOUNTS=[
 
 [DOCUMENTATION] 
 ORG_NAME="TESTNET PROJECT" 
-ORG_URL="https://test.owaow.com" 
-ORG_LOGO="https://test.owaow.com/logo.svg" 
+ORG_URL="https://testnet.owaow.com" 
+ORG_LOGO="https://testnet.owaow.com/logo.svg" 
 
 [[CURRENCIES]] 
 code="TEST" 
@@ -21,4 +21,4 @@ status="live"
 name="TESTNET" 
 desc="TESTNET PROJECT (Asset Code : TEST) is a Supporting Project of Stellar Lumens (XLM) Test Net on Public Live Network." 
 display_decimals=7 
-image="https://test.owaow.com/logo/64x64.svg" 
+image="https://testnet.owaow.com/logo/64x64.svg" 
