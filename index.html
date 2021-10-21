@@ -43,14 +43,20 @@
                 background-color:transparent; 
                 text-decoration:underline; 
                } 
-     .menu     { 
-                display:table-cell; 
+     .master   { 
+                display:table; 
                 align-items:center; 
                 justify-content:center; 
                 vertical-align:middle; 
                 padding:2px; 
                } 
-     .position { 
+     .slave    { 
+                display:table-cell; 
+                align-items:center; 
+                justify-content:center; 
+                vertical-align:middle; 
+               } 
+     .cyan     { 
                 color:cyan; 
                } 
      .color    { 
@@ -72,22 +78,24 @@
      </head>
      <body> 
      <fieldset> 
-          <div class="menu">
-              <span class="position">Home</span> | 
+          <div class="master">
+              <div class="slave">
+              <span class="cyan">Home</span> | 
               <a href="#">Events</a> | 
               <a href="#">Info</a>
+              </div>
           </div>
      </fieldset>
      <br>
      <fieldset> 
      <br>
           <div class="title">
-               TESTNET PROJECT
+              TESTNET PROJECT
           </div>
           <div>
-               <i class="position">
-               A Supporting Project of Stellar Test Net on Public Live Network
-               </i>
+              <i class="cyan">
+              A Supporting Project of Stellar Test Net on Public Live Network
+              </i>
           </div>
      <br>
      </fieldset> 
@@ -154,7 +162,7 @@
      </fieldset>
      <br>
      <fieldset> 
-          <div class="menu">
+          <div class="master">
                Copyright © 2021<br>TESTNET PROJECT<br>All Rights Reserved
           </div> 
      </fieldset>
